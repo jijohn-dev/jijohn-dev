@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jijohn-dev 
-- 👀 I’m interested in chess programming ♟️, web 🕸️ and game development 👾
 - 📫 jijohn.dev@gmail.com
 
 <!---
